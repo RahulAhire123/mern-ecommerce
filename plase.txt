@@ -1,0 +1,10 @@
+for mongoose -->
+mongod -dbpath ./data
+
+
+for node js --->
+npm run dev
+
+
+
+server.use(passport.initialize());
